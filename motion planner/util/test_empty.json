@@ -1,0 +1,10 @@
+{
+    "bounds": {"extents": [0.0, 4.5, 0.0, 6.5, 0.0, 3.0]},
+    "start": [1.0, 1.0, 1.0],
+    "goal": [3.0, 6.0, 2.0],
+    "resolution": [1, 1, 1],
+    "margin": 0.1,
+    "expected_path_length": 7.88,
+    "timeout": 50.0,
+    "algorithms": ["dijkstra", "astar"]
+}
