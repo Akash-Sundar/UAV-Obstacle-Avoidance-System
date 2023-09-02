@@ -1,4 +1,8 @@
 # UAV-Obstacle-Avoidance-System
+
+![MEAM620 Drone Video GIF](https://github.com/Akash-Sundar/UAV-Obstacle-Avoidance-System/assets/120504031/b491282a-dd46-4f54-98fd-2469df2a2886)
+
+
 The dynamics of a UAV was controlled using a PD controller and its path through the obstacle course was generated using Dijkstra and A* algorithms. 
 A trajectory planner was impleneted to combine the outputs of the controller and the motion planner and provide a smooth transition of system dynamics using minimum snap trajectory.
 
